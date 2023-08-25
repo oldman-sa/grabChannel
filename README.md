@@ -27,7 +27,7 @@ cd timeName
 
 ```
 sudo apt install python@3.11
-pip install -r requirements.txt
+python3 -m pip install -r requirements.txt
 ```
 ## Запуск скрипта
 
