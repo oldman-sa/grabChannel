@@ -16,7 +16,7 @@ apt uptade && apt upgrade
 2. Клонируйте репозиторий:
 
 ```
-git clone https://github.com/oldman-sa/timeName.git
+git clone https://github.com/oldman-sa/grabChannel.git
 ```
 3. Откройте папку со скриптом:
 
